@@ -28,9 +28,61 @@
     .banner-container>div {
         width: 100%;
     }
-    
+
     .banner-img img {
         width: 100%;
      }
-   
+   /* Section 2 styles */
+   /* .section-two {
+    margin-top: 120px;
+} */
+
+/* .section-two-container {
+    text-align: center;
+    max-width: 1920px;
+    max-height: 5927px;
+    background: #FFF;
+    margin: 0px auto;
+    border: 2px solid red;
+} */
+
+/* .section-two-container h2 {
+    color: #0B0223;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.section-two-container h2 span {
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+}
+.section-two-container p {
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+
+} */
+.section-two-container>div {
+    width: 100%;
+}
+.online-games-container {
+    /* margin-top: 45px; */
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    /* justify-content: space-between;
+    border: 2px solid goldenrod; */
+
+}
+
+/* .games {
+    border: 2px solid rgb(15, 228, 76);
+    max-width: 342px;
+    max-height: 400px;
+    border-radius: 16px;
+
+} */
 }
