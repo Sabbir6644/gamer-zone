@@ -3,39 +3,34 @@
     .nav-container {
         flex-direction: column;
         background: none;
-        box-shadow: none;
-    
+        box-shadow: none; 
     }
     
     .logo-container {
         display: flex;
-        justify-content: center;
-       
-    
+        justify-content: center;   
     }
-    
-    /* .logo-container img {
-        width: 86.041px;
-        height: 40px;
-        flex-shrink: 0;
-    
-    } */
-    
-  
-    
-    /* .logo-container h3 {
-        color: #0B0223;
-        font-size: 45px;
-        font-weight: 700;
-    
-    } */
-    
+
     .menus {
        flex-direction: column;
     }
+
     .menus li {
       margin-bottom: 15px;
     }
+    /* Nav styles End */
+    /* Banner Styles start */
+
+    .banner-container {
+        flex-direction: column;
+        margin-top: 150px;
+    }
+    .banner-container>div {
+        width: 100%;
+    }
     
+    .banner-img img {
+        width: 100%;
+     }
    
 }
