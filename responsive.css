@@ -97,6 +97,14 @@ margin-bottom: 80px;
 .section-three-small-image img {
     width: 60%;
 }
+/* Section 4 styles */
+.section-four {
+ 
+}
+
+.game-container {
+    grid-template-columns: repeat(3, auto);
+}
 
 
 }
