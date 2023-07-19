@@ -329,8 +329,6 @@ nav {
     position: relative;
 }
 
-.section-three-main-image {}
-
 .section-three-main-image img {
     max-width: 634.833px;
     max-height: 650px;
@@ -387,6 +385,7 @@ nav {
 .section-four-game:hover {
     max-width: 248px;
     max-height: 80px;
+    border: 1px solid #FF42A5;
     border-radius: 50px;
     background: #FFF;
     font-size: 20px;
@@ -395,6 +394,7 @@ nav {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    align-items: center;
 
 
 }
