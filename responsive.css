@@ -105,6 +105,81 @@ margin-bottom: 80px;
 .game-container {
     grid-template-columns: repeat(3, auto);
 }
+/* Footer section styles */
+.footer-conteinar {
+ 
+}
 
+.footer-logo-container {
+
+}
+
+.footer-logo {
+
+}
+
+
+.footer-logo img {
+
+}
+
+.footer-logo h3 {
+ 
+}
+
+.footer-logo span {
+
+}
+
+.footer-menus {
+   flex-wrap: wrap;
+   gap: 30px;
+}
+
+.footer-menus li {
+   
+}
+
+.footer-menus li>a {
+ 
+}
+
+.footer-icon-container {
+
+}
+
+.footer-icons {
+    flex-wrap: wrap;
+}
+
+.fa-brands {
+   
+}
+
+.footer-terms-container {
+    flex-wrap: wrap;
+}
+
+.footer-terms-menus {
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.footer-terms-menus li {
+  
+}
+
+.footer-terms-menus li>a {
+
+}
+
+.footer-copy-container {
+
+}
+
+.footer-copy {
+   
+
+}
 
 }
