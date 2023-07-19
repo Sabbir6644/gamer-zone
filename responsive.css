@@ -236,24 +236,6 @@ margin-bottom: 80px;
 .game-container {
     grid-template-columns: repeat(3, auto);
 }
-/* Footer section styles */
 
-.footer-menus {
-    flex-wrap: wrap;
-    gap: 30px;
- }
- 
- .footer-icons {
-     flex-wrap: wrap;
- }
- 
- .footer-terms-container {
-     flex-wrap: wrap;
- }
- 
- .footer-terms-menus {
-     flex-wrap: wrap;
-     gap: 30px;
- }
 
 }
