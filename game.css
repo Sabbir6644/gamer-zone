@@ -186,7 +186,6 @@ nav {
     max-height: 5927px;
     background: #FFF;
     margin: 0px auto;
-    border: 2px solid red;
 }
 
 .section-two-container h2 {
@@ -202,6 +201,7 @@ nav {
     -webkit-text-fill-color: transparent;
     font-weight: 700;
 }
+
 .section-two-container p {
     color: #534C64;
     font-size: 18px;
@@ -213,14 +213,96 @@ nav {
     margin-top: 45px;
     display: flex;
     justify-content: space-between;
-    border: 2px solid goldenrod;
 
 }
 
 .games {
-    border: 2px solid rgb(15, 228, 76);
     max-width: 342px;
     max-height: 400px;
     border-radius: 16px;
 
+}
+
+/* section-three styles start */
+.section-three {
+    margin-top: 100px;
+}
+
+.section-three-container {
+    max-width: 1920px;
+    max-height: 5927px;
+    display: flex;
+    margin: 0px auto;
+    justify-content: space-between;
+}
+
+.section-three-container>div {
+    width: 50%;
+}
+
+.section-three-text-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.section-three-text {
+    max-width: 353px;
+}
+
+.section-three-text h3 {
+    text-align: right;
+    font-size: 48px;
+    font-weight: 700;
+
+
+}
+
+.section-three-text h3>span {
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+}
+
+.section-three-text p {
+    color: #534C64;
+    text-align: right;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.section-three-image-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.section-three-images {
+    position: relative;
+}
+
+.section-three-main-image {
+
+}
+
+.section-three-main-image img {
+    max-width: 634.833px;
+    max-height: 650px;
+    border-radius: 8px;
+
+}
+
+.section-three-small-image {
+    position: absolute;
+    top: 50%;
+    right: 70%;
+}
+
+.section-three-small-image img {
+    max-width: 318.5px;
+    max-height: 365.083px;
+    border-radius: 8px;
+    border: 10px solid #FFF;  
 }
